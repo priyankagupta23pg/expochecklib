@@ -17,11 +17,6 @@
       <version>1.0.0</version>
     </dependency>
     <dependency>
-      <groupId>com.facebook.react</groupId>
-      <artifactId>react-native</artifactId>
-      <version>+</version>
-    </dependency>
-    <dependency>
       <groupId>org.webkit</groupId>
       <artifactId>android-jsc</artifactId>
       <version>+</version>
